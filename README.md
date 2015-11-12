@@ -20,14 +20,15 @@ At line 21 add:
 -------------
 
 ##How to run:
+ 1. Make sure your firewall rules are running on its own terminal. `./run-firewall.sh my_config.cfg`
 
- 1. In the mininet terminal. ping all hosts to avoid false positive tests:
+ 2. In the mininet terminal. ping all hosts to avoid false positive tests:
 `mininet> pingall`
 
- 2. In the mininet terminal. Execute the test script using sh:
+ 3. In the mininet terminal. Execute the test script using sh:
 `mininet> sh ./test_all.sh`
 
- 3. in another terminal. Check the file named **result** with test results 
+ 4. in another terminal. Check the file named **result** with test results 
  `cat result` or `tail -f result`
 
 -------------
