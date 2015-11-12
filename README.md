@@ -12,7 +12,7 @@ A public github repository was created so every student can fork it, add his own
 At line 21 add: 
 `sock.settimeout(2.0)`
 
- 2. Down load **test_all.sh** to your ~/OMS6250-2015-Fall/assignment-5 directory
+ 2. Download **test_all.sh** to your ~/OMS6250-2015-Fall/assignment-5 directory
 
 -------------
 
