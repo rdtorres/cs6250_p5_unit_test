@@ -2,7 +2,7 @@
 # CS6250 project 5 Unit Test
 The idea of this repository is to create a bash script that will unit test all requirements from gatech CS6250 project 5. 
 
-A public github repository was created so every student can fork it, add his own tests and create a pull request. We have a class with more than 200 students, if half of us create one single extra test in end we will have +100 test and all students will benefit from this having a better grade in the end! 
+A public github repository was created so every student can fork it, add his own tests and create a pull request. We have a class with more than 200 students, if half of us create one single extra test, in end we will have 100+ tests! All students will benefit from this having a better grade in the end! 
 
 -------------
 
