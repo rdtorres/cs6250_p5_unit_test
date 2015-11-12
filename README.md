@@ -14,7 +14,7 @@ At line 21 add:
 
  2. Download **test_all.sh** to your ~/OMS6250-2015-Fall/assignment-5 directory
 
- 3. Add execution permission to it: `chmod +x ./test_ all.sh `
+ 3. Add execution permission to it: `chmod +x ./test_all.sh`
 
 
 -------------
