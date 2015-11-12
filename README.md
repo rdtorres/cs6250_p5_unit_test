@@ -28,7 +28,6 @@ At line 21 add:
  3. In the mininet terminal. Execute the test script using sh:
 `mininet> sh ./test_all.sh`
 
- 4. in another terminal. Check the file named **result** with test results 
+ 4. In a third terminal. Check the file named **result** with test results 
  `cat result` or `tail -f result`
 
--------------
