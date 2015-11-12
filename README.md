@@ -4,7 +4,7 @@ The idea of this repository is to create a bash script that will unit test all r
 
 A public github repository was created so every student can fork it, add his own tests and create a pull request. We have a class with more than 200 students, if half of us create one single extra test, in end we will have 100+ tests! All students will benefit from this by having a better grade in the end! 
 
--------------
+
 
 ##How to setup:
 
@@ -17,7 +17,7 @@ At line 21 add:
  3. Add execution permission to it: `chmod +x ./test_all.sh`
 
 
--------------
+
 
 ##How to run:
  1. Make sure your firewall rules are running on its own terminal. `./run-firewall.sh my_config.cfg`
