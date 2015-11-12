@@ -25,6 +25,6 @@ At line 21 add:
 `mininet> sh ./test_all.sh`
 
  3. in another terminal. Check the file named **result** with test results 
- `tail -f result`
+ `cat result` or `tail -f result`
 
 -------------
