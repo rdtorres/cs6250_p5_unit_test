@@ -95,7 +95,7 @@ for P in ${PORTS_5[@]}; do
 	sudo mnexec -a ${M_PIDS[5]} /bin/bash -c "python test-client.py ${IPS[2]} $P && echo $MSG: passed >> result || echo $MSG: fail >> result"
 done
 
-echo "terminating all servers"
+echo "terminating all servers. Check result file" >> result
 for M in ${M_PIDS[@]}; do
 	sudo mnexec -a $M /bin/bash -c 'ps -ef | grep test-server| cut -c10-15 | xargs kill -9' 
 done
