@@ -31,3 +31,10 @@ At line 21 add:
  4. In a third terminal. Check the file named **result** with test results 
  `cat result` or `tail -f result`
 
+
+##FAQ:
+
+Q. I got this error message `./test_all.sh: 5: ./test_all.sh: Syntax error: newline unexpected`
+A. Download the file again. It was probrably downloaded using Windows that converted all end of lines from \n to \r\n
+
+
